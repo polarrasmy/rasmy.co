@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /jarvis/
 
 Sitemap: https://rasmy.co/sitemap.xml
-Disallow: /jarvis/
