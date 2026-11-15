@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://rasmy.co/sitemap.xml
+Disallow: /jarvis/
